@@ -1,6 +1,6 @@
 - 👋 oii,meu nome é @NaiannyEduardaPinheiro
 - 👀 estou enteressada em aprender a programar novas linguagens.
-- 🌱 eu estou aprendendoa programar recentemente a linguagen de JavaScript e Scratch.
+- 🌱 eu estou aprendendo a programar recentemente a linguagen de JavaScript e Scratch.
 
 
 
